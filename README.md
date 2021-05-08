@@ -1,2 +1,2 @@
-# E5-471-Hackintosh-EFI
-macOS 10.14 EFI For Acer E5-471
+# Acer E5-471 Hackintosh Opencore EFI
+Opencore EFI For macOS Big Sur 11.3.1
